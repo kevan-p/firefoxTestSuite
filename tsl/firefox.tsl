@@ -1,0 +1,23 @@
+Parameters:
+	searchEngine:
+	  google.
+	  bing.
+	  amazon.
+	  duckduckgo.
+	  ebay.
+	  twitter.
+	  wikipedia.
+	tabs:
+	   ctrl.
+	   link.
+	   switch.
+	   ctrllink.
+	   linkswitch.
+	   switchctrl.
+	   ctrllinkswitch.
+	   none.
+	allow:
+	   autobox.
+	   checkbox.
+	   auto.
+	   check.

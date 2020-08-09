@@ -1,0 +1,1343 @@
+Test Case 1  		(Key = 1.1.1.)
+   searchEngine :  google
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 2  		(Key = 1.1.2.)
+   searchEngine :  google
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 3  		(Key = 1.1.3.)
+   searchEngine :  google
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 4  		(Key = 1.1.4.)
+   searchEngine :  google
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 5  		(Key = 1.2.1.)
+   searchEngine :  google
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 6  		(Key = 1.2.2.)
+   searchEngine :  google
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 7  		(Key = 1.2.3.)
+   searchEngine :  google
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 8  		(Key = 1.2.4.)
+   searchEngine :  google
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 9  		(Key = 1.3.1.)
+   searchEngine :  google
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 10 		(Key = 1.3.2.)
+   searchEngine :  google
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 11 		(Key = 1.3.3.)
+   searchEngine :  google
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 12 		(Key = 1.3.4.)
+   searchEngine :  google
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 13 		(Key = 1.4.1.)
+   searchEngine :  google
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 14 		(Key = 1.4.2.)
+   searchEngine :  google
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 15 		(Key = 1.4.3.)
+   searchEngine :  google
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 16 		(Key = 1.4.4.)
+   searchEngine :  google
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 17 		(Key = 1.5.1.)
+   searchEngine :  google
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 18 		(Key = 1.5.2.)
+   searchEngine :  google
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 19 		(Key = 1.5.3.)
+   searchEngine :  google
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 20 		(Key = 1.5.4.)
+   searchEngine :  google
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 21 		(Key = 1.6.1.)
+   searchEngine :  google
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 22 		(Key = 1.6.2.)
+   searchEngine :  google
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 23 		(Key = 1.6.3.)
+   searchEngine :  google
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 24 		(Key = 1.6.4.)
+   searchEngine :  google
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 25 		(Key = 1.7.1.)
+   searchEngine :  google
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 26 		(Key = 1.7.2.)
+   searchEngine :  google
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 27 		(Key = 1.7.3.)
+   searchEngine :  google
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 28 		(Key = 1.7.4.)
+   searchEngine :  google
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 29 		(Key = 1.8.1.)
+   searchEngine :  google
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 30 		(Key = 1.8.2.)
+   searchEngine :  google
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 31 		(Key = 1.8.3.)
+   searchEngine :  google
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 32 		(Key = 1.8.4.)
+   searchEngine :  google
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 33 		(Key = 2.1.1.)
+   searchEngine :  bing
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 34 		(Key = 2.1.2.)
+   searchEngine :  bing
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 35 		(Key = 2.1.3.)
+   searchEngine :  bing
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 36 		(Key = 2.1.4.)
+   searchEngine :  bing
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 37 		(Key = 2.2.1.)
+   searchEngine :  bing
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 38 		(Key = 2.2.2.)
+   searchEngine :  bing
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 39 		(Key = 2.2.3.)
+   searchEngine :  bing
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 40 		(Key = 2.2.4.)
+   searchEngine :  bing
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 41 		(Key = 2.3.1.)
+   searchEngine :  bing
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 42 		(Key = 2.3.2.)
+   searchEngine :  bing
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 43 		(Key = 2.3.3.)
+   searchEngine :  bing
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 44 		(Key = 2.3.4.)
+   searchEngine :  bing
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 45 		(Key = 2.4.1.)
+   searchEngine :  bing
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 46 		(Key = 2.4.2.)
+   searchEngine :  bing
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 47 		(Key = 2.4.3.)
+   searchEngine :  bing
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 48 		(Key = 2.4.4.)
+   searchEngine :  bing
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 49 		(Key = 2.5.1.)
+   searchEngine :  bing
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 50 		(Key = 2.5.2.)
+   searchEngine :  bing
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 51 		(Key = 2.5.3.)
+   searchEngine :  bing
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 52 		(Key = 2.5.4.)
+   searchEngine :  bing
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 53 		(Key = 2.6.1.)
+   searchEngine :  bing
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 54 		(Key = 2.6.2.)
+   searchEngine :  bing
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 55 		(Key = 2.6.3.)
+   searchEngine :  bing
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 56 		(Key = 2.6.4.)
+   searchEngine :  bing
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 57 		(Key = 2.7.1.)
+   searchEngine :  bing
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 58 		(Key = 2.7.2.)
+   searchEngine :  bing
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 59 		(Key = 2.7.3.)
+   searchEngine :  bing
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 60 		(Key = 2.7.4.)
+   searchEngine :  bing
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 61 		(Key = 2.8.1.)
+   searchEngine :  bing
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 62 		(Key = 2.8.2.)
+   searchEngine :  bing
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 63 		(Key = 2.8.3.)
+   searchEngine :  bing
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 64 		(Key = 2.8.4.)
+   searchEngine :  bing
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 65 		(Key = 3.1.1.)
+   searchEngine :  amazon
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 66 		(Key = 3.1.2.)
+   searchEngine :  amazon
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 67 		(Key = 3.1.3.)
+   searchEngine :  amazon
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 68 		(Key = 3.1.4.)
+   searchEngine :  amazon
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 69 		(Key = 3.2.1.)
+   searchEngine :  amazon
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 70 		(Key = 3.2.2.)
+   searchEngine :  amazon
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 71 		(Key = 3.2.3.)
+   searchEngine :  amazon
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 72 		(Key = 3.2.4.)
+   searchEngine :  amazon
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 73 		(Key = 3.3.1.)
+   searchEngine :  amazon
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 74 		(Key = 3.3.2.)
+   searchEngine :  amazon
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 75 		(Key = 3.3.3.)
+   searchEngine :  amazon
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 76 		(Key = 3.3.4.)
+   searchEngine :  amazon
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 77 		(Key = 3.4.1.)
+   searchEngine :  amazon
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 78 		(Key = 3.4.2.)
+   searchEngine :  amazon
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 79 		(Key = 3.4.3.)
+   searchEngine :  amazon
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 80 		(Key = 3.4.4.)
+   searchEngine :  amazon
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 81 		(Key = 3.5.1.)
+   searchEngine :  amazon
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 82 		(Key = 3.5.2.)
+   searchEngine :  amazon
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 83 		(Key = 3.5.3.)
+   searchEngine :  amazon
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 84 		(Key = 3.5.4.)
+   searchEngine :  amazon
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 85 		(Key = 3.6.1.)
+   searchEngine :  amazon
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 86 		(Key = 3.6.2.)
+   searchEngine :  amazon
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 87 		(Key = 3.6.3.)
+   searchEngine :  amazon
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 88 		(Key = 3.6.4.)
+   searchEngine :  amazon
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 89 		(Key = 3.7.1.)
+   searchEngine :  amazon
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 90 		(Key = 3.7.2.)
+   searchEngine :  amazon
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 91 		(Key = 3.7.3.)
+   searchEngine :  amazon
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 92 		(Key = 3.7.4.)
+   searchEngine :  amazon
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 93 		(Key = 3.8.1.)
+   searchEngine :  amazon
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 94 		(Key = 3.8.2.)
+   searchEngine :  amazon
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 95 		(Key = 3.8.3.)
+   searchEngine :  amazon
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 96 		(Key = 3.8.4.)
+   searchEngine :  amazon
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 97 		(Key = 4.1.1.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 98 		(Key = 4.1.2.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 99 		(Key = 4.1.3.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 100		(Key = 4.1.4.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 101		(Key = 4.2.1.)
+   searchEngine :  duckduckgo
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 102		(Key = 4.2.2.)
+   searchEngine :  duckduckgo
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 103		(Key = 4.2.3.)
+   searchEngine :  duckduckgo
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 104		(Key = 4.2.4.)
+   searchEngine :  duckduckgo
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 105		(Key = 4.3.1.)
+   searchEngine :  duckduckgo
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 106		(Key = 4.3.2.)
+   searchEngine :  duckduckgo
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 107		(Key = 4.3.3.)
+   searchEngine :  duckduckgo
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 108		(Key = 4.3.4.)
+   searchEngine :  duckduckgo
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 109		(Key = 4.4.1.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 110		(Key = 4.4.2.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 111		(Key = 4.4.3.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 112		(Key = 4.4.4.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 113		(Key = 4.5.1.)
+   searchEngine :  duckduckgo
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 114		(Key = 4.5.2.)
+   searchEngine :  duckduckgo
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 115		(Key = 4.5.3.)
+   searchEngine :  duckduckgo
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 116		(Key = 4.5.4.)
+   searchEngine :  duckduckgo
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 117		(Key = 4.6.1.)
+   searchEngine :  duckduckgo
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 118		(Key = 4.6.2.)
+   searchEngine :  duckduckgo
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 119		(Key = 4.6.3.)
+   searchEngine :  duckduckgo
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 120		(Key = 4.6.4.)
+   searchEngine :  duckduckgo
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 121		(Key = 4.7.1.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 122		(Key = 4.7.2.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 123		(Key = 4.7.3.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 124		(Key = 4.7.4.)
+   searchEngine :  duckduckgo
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 125		(Key = 4.8.1.)
+   searchEngine :  duckduckgo
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 126		(Key = 4.8.2.)
+   searchEngine :  duckduckgo
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 127		(Key = 4.8.3.)
+   searchEngine :  duckduckgo
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 128		(Key = 4.8.4.)
+   searchEngine :  duckduckgo
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 129		(Key = 5.1.1.)
+   searchEngine :  ebay
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 130		(Key = 5.1.2.)
+   searchEngine :  ebay
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 131		(Key = 5.1.3.)
+   searchEngine :  ebay
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 132		(Key = 5.1.4.)
+   searchEngine :  ebay
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 133		(Key = 5.2.1.)
+   searchEngine :  ebay
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 134		(Key = 5.2.2.)
+   searchEngine :  ebay
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 135		(Key = 5.2.3.)
+   searchEngine :  ebay
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 136		(Key = 5.2.4.)
+   searchEngine :  ebay
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 137		(Key = 5.3.1.)
+   searchEngine :  ebay
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 138		(Key = 5.3.2.)
+   searchEngine :  ebay
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 139		(Key = 5.3.3.)
+   searchEngine :  ebay
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 140		(Key = 5.3.4.)
+   searchEngine :  ebay
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 141		(Key = 5.4.1.)
+   searchEngine :  ebay
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 142		(Key = 5.4.2.)
+   searchEngine :  ebay
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 143		(Key = 5.4.3.)
+   searchEngine :  ebay
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 144		(Key = 5.4.4.)
+   searchEngine :  ebay
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 145		(Key = 5.5.1.)
+   searchEngine :  ebay
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 146		(Key = 5.5.2.)
+   searchEngine :  ebay
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 147		(Key = 5.5.3.)
+   searchEngine :  ebay
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 148		(Key = 5.5.4.)
+   searchEngine :  ebay
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 149		(Key = 5.6.1.)
+   searchEngine :  ebay
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 150		(Key = 5.6.2.)
+   searchEngine :  ebay
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 151		(Key = 5.6.3.)
+   searchEngine :  ebay
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 152		(Key = 5.6.4.)
+   searchEngine :  ebay
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 153		(Key = 5.7.1.)
+   searchEngine :  ebay
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 154		(Key = 5.7.2.)
+   searchEngine :  ebay
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 155		(Key = 5.7.3.)
+   searchEngine :  ebay
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 156		(Key = 5.7.4.)
+   searchEngine :  ebay
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 157		(Key = 5.8.1.)
+   searchEngine :  ebay
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 158		(Key = 5.8.2.)
+   searchEngine :  ebay
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 159		(Key = 5.8.3.)
+   searchEngine :  ebay
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 160		(Key = 5.8.4.)
+   searchEngine :  ebay
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 161		(Key = 6.1.1.)
+   searchEngine :  twitter
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 162		(Key = 6.1.2.)
+   searchEngine :  twitter
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 163		(Key = 6.1.3.)
+   searchEngine :  twitter
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 164		(Key = 6.1.4.)
+   searchEngine :  twitter
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 165		(Key = 6.2.1.)
+   searchEngine :  twitter
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 166		(Key = 6.2.2.)
+   searchEngine :  twitter
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 167		(Key = 6.2.3.)
+   searchEngine :  twitter
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 168		(Key = 6.2.4.)
+   searchEngine :  twitter
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 169		(Key = 6.3.1.)
+   searchEngine :  twitter
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 170		(Key = 6.3.2.)
+   searchEngine :  twitter
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 171		(Key = 6.3.3.)
+   searchEngine :  twitter
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 172		(Key = 6.3.4.)
+   searchEngine :  twitter
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 173		(Key = 6.4.1.)
+   searchEngine :  twitter
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 174		(Key = 6.4.2.)
+   searchEngine :  twitter
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 175		(Key = 6.4.3.)
+   searchEngine :  twitter
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 176		(Key = 6.4.4.)
+   searchEngine :  twitter
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 177		(Key = 6.5.1.)
+   searchEngine :  twitter
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 178		(Key = 6.5.2.)
+   searchEngine :  twitter
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 179		(Key = 6.5.3.)
+   searchEngine :  twitter
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 180		(Key = 6.5.4.)
+   searchEngine :  twitter
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 181		(Key = 6.6.1.)
+   searchEngine :  twitter
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 182		(Key = 6.6.2.)
+   searchEngine :  twitter
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 183		(Key = 6.6.3.)
+   searchEngine :  twitter
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 184		(Key = 6.6.4.)
+   searchEngine :  twitter
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 185		(Key = 6.7.1.)
+   searchEngine :  twitter
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 186		(Key = 6.7.2.)
+   searchEngine :  twitter
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 187		(Key = 6.7.3.)
+   searchEngine :  twitter
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 188		(Key = 6.7.4.)
+   searchEngine :  twitter
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 189		(Key = 6.8.1.)
+   searchEngine :  twitter
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 190		(Key = 6.8.2.)
+   searchEngine :  twitter
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 191		(Key = 6.8.3.)
+   searchEngine :  twitter
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 192		(Key = 6.8.4.)
+   searchEngine :  twitter
+   tabs         :  none
+   allow        :  check
+
+
+Test Case 193		(Key = 7.1.1.)
+   searchEngine :  wikipedia
+   tabs         :  ctrl
+   allow        :  autobox
+
+
+Test Case 194		(Key = 7.1.2.)
+   searchEngine :  wikipedia
+   tabs         :  ctrl
+   allow        :  checkbox
+
+
+Test Case 195		(Key = 7.1.3.)
+   searchEngine :  wikipedia
+   tabs         :  ctrl
+   allow        :  auto
+
+
+Test Case 196		(Key = 7.1.4.)
+   searchEngine :  wikipedia
+   tabs         :  ctrl
+   allow        :  check
+
+
+Test Case 197		(Key = 7.2.1.)
+   searchEngine :  wikipedia
+   tabs         :  link
+   allow        :  autobox
+
+
+Test Case 198		(Key = 7.2.2.)
+   searchEngine :  wikipedia
+   tabs         :  link
+   allow        :  checkbox
+
+
+Test Case 199		(Key = 7.2.3.)
+   searchEngine :  wikipedia
+   tabs         :  link
+   allow        :  auto
+
+
+Test Case 200		(Key = 7.2.4.)
+   searchEngine :  wikipedia
+   tabs         :  link
+   allow        :  check
+
+
+Test Case 201		(Key = 7.3.1.)
+   searchEngine :  wikipedia
+   tabs         :  switch
+   allow        :  autobox
+
+
+Test Case 202		(Key = 7.3.2.)
+   searchEngine :  wikipedia
+   tabs         :  switch
+   allow        :  checkbox
+
+
+Test Case 203		(Key = 7.3.3.)
+   searchEngine :  wikipedia
+   tabs         :  switch
+   allow        :  auto
+
+
+Test Case 204		(Key = 7.3.4.)
+   searchEngine :  wikipedia
+   tabs         :  switch
+   allow        :  check
+
+
+Test Case 205		(Key = 7.4.1.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllink
+   allow        :  autobox
+
+
+Test Case 206		(Key = 7.4.2.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllink
+   allow        :  checkbox
+
+
+Test Case 207		(Key = 7.4.3.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllink
+   allow        :  auto
+
+
+Test Case 208		(Key = 7.4.4.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllink
+   allow        :  check
+
+
+Test Case 209		(Key = 7.5.1.)
+   searchEngine :  wikipedia
+   tabs         :  linkswitch
+   allow        :  autobox
+
+
+Test Case 210		(Key = 7.5.2.)
+   searchEngine :  wikipedia
+   tabs         :  linkswitch
+   allow        :  checkbox
+
+
+Test Case 211		(Key = 7.5.3.)
+   searchEngine :  wikipedia
+   tabs         :  linkswitch
+   allow        :  auto
+
+
+Test Case 212		(Key = 7.5.4.)
+   searchEngine :  wikipedia
+   tabs         :  linkswitch
+   allow        :  check
+
+
+Test Case 213		(Key = 7.6.1.)
+   searchEngine :  wikipedia
+   tabs         :  switchctrl
+   allow        :  autobox
+
+
+Test Case 214		(Key = 7.6.2.)
+   searchEngine :  wikipedia
+   tabs         :  switchctrl
+   allow        :  checkbox
+
+
+Test Case 215		(Key = 7.6.3.)
+   searchEngine :  wikipedia
+   tabs         :  switchctrl
+   allow        :  auto
+
+
+Test Case 216		(Key = 7.6.4.)
+   searchEngine :  wikipedia
+   tabs         :  switchctrl
+   allow        :  check
+
+
+Test Case 217		(Key = 7.7.1.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllinkswitch
+   allow        :  autobox
+
+
+Test Case 218		(Key = 7.7.2.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllinkswitch
+   allow        :  checkbox
+
+
+Test Case 219		(Key = 7.7.3.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllinkswitch
+   allow        :  auto
+
+
+Test Case 220		(Key = 7.7.4.)
+   searchEngine :  wikipedia
+   tabs         :  ctrllinkswitch
+   allow        :  check
+
+
+Test Case 221		(Key = 7.8.1.)
+   searchEngine :  wikipedia
+   tabs         :  none
+   allow        :  autobox
+
+
+Test Case 222		(Key = 7.8.2.)
+   searchEngine :  wikipedia
+   tabs         :  none
+   allow        :  checkbox
+
+
+Test Case 223		(Key = 7.8.3.)
+   searchEngine :  wikipedia
+   tabs         :  none
+   allow        :  auto
+
+
+Test Case 224		(Key = 7.8.4.)
+   searchEngine :  wikipedia
+   tabs         :  none
+   allow        :  check
+
